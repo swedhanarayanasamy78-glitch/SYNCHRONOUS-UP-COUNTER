@@ -49,11 +49,12 @@ Developed by: RegisterNumber:
 */
 
 **RTL LOGIC UP COUNTER**
-https://github.com/user-attachments/assets/2ce53063-c580-4973-bf1d-3c5520fff082
+![WhatsApp Image 2025-12-17 at 10 40 23_d87ebd3a](https://github.com/user-attachments/assets/78f1876b-561f-4980-b5bc-1ec89454fa19)
 
 **TIMING DIAGRAM FOR IP COUNTER**
-https://github.com/user-attachments/assets/eed252dc-5752-405c-84ff-798933ad11fb
+![WhatsApp Image 2025-12-17 at 10 40 38_beccceae](https://github.com/user-attachments/assets/0a29882b-2ee3-4e74-be13-686227767a79)
 
 **TRUTH TABLE**
 
 **RESULTS**
+hence synchronous up-counter is verified clearly by this experiment
